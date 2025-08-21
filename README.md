@@ -2,7 +2,8 @@
 
 <h3 align="center">Aspiring Data Analyst | Turning raw data into meaningful insights 📊</h3>
 
-<img align="right" alt="Profile Photo" width="400" src="7f0c4504-6caf-4fdc-9d89-0b34cfdf970c.png">
+<img align="right" alt="Profile Photo" width="400" src="https://github.com/rohan-dangal/<your-repo>/blob/main/github%20photo.jpg?raw=true">
+
 
 - 🌱 I’m currently learning **Advanced SQL, Power BI, and Python for Data Analytics**
 
