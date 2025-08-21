@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rohan Dangal</h1>
 <h3 align="center">Aspiring Data Analyst | Turning raw data into meaningful insights 📊</h3>
 
-<img align="right" alt="Data GIF" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3djaHRzMDRrbHh1dGlzaDVsZXc0NGV3YmtuMjAwczZyNW4xMWVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif">
+<img align="right" alt="Profile Photo" width="400" src="be983360-0320-45fe-a04f-34bbbf40e081.png">
 
 - 🌱 I’m currently learning **Advanced SQL, Power BI, and Python for Data Analytics**
 - 💬 Ask me about **Excel, SQL queries, dashboards, and data analysis tricks**
 - 📫 Reach me at **johndangal2061@gmail.com**
-- ⚡ Fun fact: **I can spend hours finding insights in messy data the way others binge-watch Netflix 😅**
+
 
 ---
 
@@ -38,8 +38,6 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-dangal&show_icons=true&locale=en&layout=compact" alt="rohan-dangal" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-dangal&show_icons=true&locale=en" alt="rohan-dangal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-dangal&" alt="rohan-dangal" /></p>
