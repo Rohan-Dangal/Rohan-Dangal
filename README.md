@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Advanced SQL, Power BI, and Python for Data Analytics**
+- 🌱 I’m currently learning **Excel,Advanced SQL, Power BI, and Python for Data Analytics**
 
 - 💬 Ask me about **Excel, SQL queries, dashboards, and data analysis tricks**
 
