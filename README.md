@@ -49,14 +49,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohan-Dangal&show_icons=true&count_private=true&theme=dark" alt="Rohan Dangal GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Dangal&theme=dark" alt="Rohan Dangal GitHub Streak" />
-</p>
